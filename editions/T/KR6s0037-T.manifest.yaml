@@ -1,0 +1,78 @@
+canonical_identifier: bkk:krp/KR6s0037/T/v1
+canonical_location: https://kanripo.org/bkk/KR6s0037/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 押座文類
+  identifiers:
+    krp: KR6s0037
+    cbeta: T85n2845
+    cbeta_old_id: T85n2845
+    authorityid: CA0004866
+    json_key: T2845
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2845.xml
+    old_id: T85n2845
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6s0037_000-T.yaml, hash: 'sha256:56e6186d127ed3d279b10ce9df6cd202316e987786fd83689a623b75f197cb75'}
+  - {seq: 1, filename: KR6s0037_001-T.yaml, hash: 'sha256:887890ded38d18964295aabc043a9966b00c4da5a2e46e6ce9362400724ee422'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6s0037_000-T.markers.yaml, hash: 'sha256:9c65b03e73a14461a3df56a1f9859762af55c22c1d33f8b46acf052a6f6e79c6'}
+  - {seq: 1, role: markers, filename: assets/KR6s0037_001-T.markers.yaml, hash: 'sha256:9788d6f8e067492ec23523979fbe645cc4f3e394a49df72f91d3323b5adf8427'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6s0037_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 1628
+  label: 押座文類
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0037_T_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 維摩經押座文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0037_T_001-mulu-2
+    span:
+    - body
+    - 462
+    - 462
+  label: 三身押坐文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0037_T_001-mulu-3
+    span:
+    - body
+    - 697
+    - 697
+  label: 八指押坐文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0037_T_001-mulu-4
+    span:
+    - body
+    - 1329
+    - 1329
+  label: 溫室經講唱押座文
+  type: mulu
+  level: 1
+hash: sha256:0d6b27fd40bff67e5e148e172eaa15a99591dfa31d2b6329e4e84d6f98b3f875
