@@ -25,9 +25,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6s0037_000.yaml, hash: 'sha256:56e6186d127ed3d279b10ce9df6cd202316e987786fd83689a623b75f197cb75'}
-  - {seq: 1, filename: KR6s0037_001.yaml, hash: 'sha256:f1adb00fda21e01f92f95f3485d7fa7bab4269b224bc0a3ba9d131bbf658a681'}
+  - {seq: 1, filename: KR6s0037_001.yaml, hash: 'sha256:887890ded38d18964295aabc043a9966b00c4da5a2e46e6ce9362400724ee422'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6s0037_001.markers.yaml, hash: 'sha256:5ec4f2e4d0fef53dfe9ed5a9ab150bc4f5f49fd00ac27ed9f46a132b11b9bd1c'}
+  - {seq: 0, role: markers, filename: assets/KR6s0037_000.markers.yaml, hash: 'sha256:b97ea5f081579f61716ce342dfc455e2c6e7c83d56904f3ba3cbc6b89b4d211f'}
+  - {seq: 1, role: markers, filename: assets/KR6s0037_001.markers.yaml, hash: 'sha256:6824f66ac11e4676038a52803bbb8c641d89c86be153b7a196ce81f32d93e873'}
 table_of_contents:
 - ref:
     seq: 1
@@ -79,7 +80,4 @@ table_of_contents:
   label: 溫室經講唱押座文
   type: mulu
   level: 1
-hash: sha256:aa4cac2ba97e28450a972943e8ef0fb88d85a8984b2fc82b6bc4e4315d49c5f2
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:98167d76cef7fff45d2c7e219f0228f0845a9a83a926c3ee0c9d42fb78f41847
